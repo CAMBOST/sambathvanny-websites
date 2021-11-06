@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(https://lh3.googleusercontent.com/B16LvZu8XJO7aULpUv5JlAnljGHDzwEyCebMbQ0McBVXZT__nxkw7l2-cnqoveRaCR2yJPiKMPJmqiWy2azI=w1920-h950-rw);
+    background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(images/background.png);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
@@ -72,7 +72,7 @@ nav ul li a:hover::after{
     margin-left: -10px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
-    background-image: url(https://lh4.googleusercontent.com/Thg0CCnPtEGelkzu1zrIjJHjfF9V4Nog8HSla9ui3y2mHKPjbj9dsiV88vaEMdoNunTYPAGDDSkgLj_LgYeN=w1920-h950-rw);
+    background-image: url(images/back.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
